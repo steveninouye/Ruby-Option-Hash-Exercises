@@ -1,4 +1,4 @@
-Options Hashes
+# Options Hashes
 
 Write a method `transmogrify` that takes a `String`. This method should
 take optional parameters `:times`, `:upcase`, and `:reverse`. Hard-code
